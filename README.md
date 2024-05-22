@@ -11,7 +11,7 @@ Ever dreamt of embarking on an exhilarating journey through mystical realms and 
 
 Ready to embark on this epic quest? Follow these steps to dive into the adventure:
 
-1. **Clone the Repository**: `git clone https://github.com/YourUsername/palm-guard.git` 🌀
+1. **Clone the Repository**
 2. **Install Unity**: Download and install the latest version of Unity from [here](https://unity.com/). 🛠️
-3. **Setup SQLite**: Follow our setup guide to integrate SQLite into your Unity project and unleash the power of data storage. 🔧
-4. **Translate and Conquer**: Connect your Unity project to Google Sheets, and let the translation magic unfold. Adventure awaits in every language! 🌐🌟 (Adding creative font and emoji)
+3. **Setup SQLite**: Download SQLite and open PalmGuard.db 🔧
+
