@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: cd35fcf33a0efe944a764d1043f439b5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10624401526784
+    m_Localized: Perkebunan kelapa sawit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10606479265792
+    m_Localized: Kilang minyak sawit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10595972534272
+    m_Localized: Pabrik kelapa sawit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939656015872
+    m_Localized: Pengawas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181696
+    m_Localized: Selamat datang di PalmGuard. Terdapat berbagai jenis cedera yang
+      dapat terjadi di perkebunan kelapa sawit, dan setiap jenisnya memerlukan pendekatan
+      pengobatan yang berbeda. Mari kita mulai dengan mengidentifikasi berbagai jenis
+      cedera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181697
+    m_Localized: Yuk tonton video ini untuk lebih memahami cara membedakan luka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181698
+    m_Localized: Tugas selesai 1/2. Sekarang, mari tonton video ini untuk mendapatkan
+      pemahaman yang lebih baik tentang cara menangani berbagai luka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181699
+    m_Localized: Tugas selesai. Ingatlah untuk menerapkan apa yang telah Anda pelajari
+      dalam insiden apa pun di masa depan. Sekarang, kembali bekerja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 779796156895232
+    m_Localized: Tolong aku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 924214247673856
+    m_Localized: Korban
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429759565824
+    m_Localized: Selamatkan dia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537344
+    m_Localized: Melewati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537345
+    m_Localized: Papan peringkat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2046544873115648
+    m_Localized: Mohon bantuannya untuk mengidentifikasi jenis luka terbuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537347
+    m_Localized: Gagal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537348
+    m_Localized: Mohon bantuannya untuk mengidentifikasi jenis lukanya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537349
+    m_Localized: Luka Terbuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537350
+    m_Localized: Tutup Luka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537351
+    m_Localized: Benar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537352
+    m_Localized: Salah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537353
+    m_Localized: Berikutnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537354
+    m_Localized: Mencoba kembali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537355
+    m_Localized: Laserasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537356
+    m_Localized: Avulsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537357
+    m_Localized: Tusukan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537358
+    m_Localized: Abrasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537359
+    m_Localized: Silakan pilih teknik yang sesuai untuk mengendalikan pendarahan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537360
+    m_Localized: Oleskan Pembalut Hemostatik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537361
+    m_Localized: Tekanan Tidak Langsung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537362
+    m_Localized: Tekanan Langsung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537363
+    m_Localized: Pasang Tourniquet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040410284085248
+    m_Localized: Papan Peringkat Penjaga Palm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048110531301376
+    m_Localized: Jika luka tidak dibersihkan dengan cairan disinfektan, risiko infeksi
+      akan meningkat. Silakan tonton video di bawah ini untuk mengetahui dampak buruk
+      jika tidak menggunakan cairan disinfektan untuk membersihkan luka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048770073022464
+    m_Localized: Selamat! 3/3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2049405874982912
+    m_Localized: Selesai Hari 1
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

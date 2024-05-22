@@ -1,0 +1,4 @@
+{
+       "api_key" : "sk-proj-k9YepnrUPrwkhEK6oqz6T3BlbkFJvZbwxcJTd6Z38okjACid",
+       "organization" : "org-ffbuDfUaI6f8X351M8uzKN02"
+}

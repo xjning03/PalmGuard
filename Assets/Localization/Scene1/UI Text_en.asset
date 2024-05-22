@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cd35fcf33a0efe944a764d1043f439b5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10624401526784
+    m_Localized: Palm oil estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10606479265792
+    m_Localized: Palm oil refineries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10595972534272
+    m_Localized: Palm oil mills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939656015872
+    m_Localized: Supervisor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181696
+    m_Localized: Welcome to PalmGuard. There are various types of injuries that could
+      occur in a palm oil estate, and each type requires a different approach to
+      treatment. Let's begin by identifying the different types of injuries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181697
+    m_Localized: Let's watch this video to gain a better understanding of how to
+      differentiate wounds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181698
+    m_Localized: Task completed 1/2. Now, let's watch this video to gain a better
+      understanding of how to manage different wounds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181699
+    m_Localized: Task completed. Remember to apply what you've learned in any future
+      incidents. Now, back to work!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 779796156895232
+    m_Localized: Help Me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 924214247673856
+    m_Localized: Victim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429759565824
+    m_Localized: Save Him!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537344
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537345
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2046544873115648
+    m_Localized: Please help to identify the type of open wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537347
+    m_Localized: Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537348
+    m_Localized: Please help to identify the type of wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537349
+    m_Localized: Open Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537350
+    m_Localized: Close Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537351
+    m_Localized: Correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537352
+    m_Localized: Wrong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537353
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537354
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537355
+    m_Localized: Laceration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537356
+    m_Localized: Avulsion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537357
+    m_Localized: Puncture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537358
+    m_Localized: Abrasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537359
+    m_Localized: Please choose a suitable technique to control bleeding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537360
+    m_Localized: Apply Hemostatic Dressing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537361
+    m_Localized: Indirect Pressure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537362
+    m_Localized: Direct Pressure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537363
+    m_Localized: Apply Tourniquet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040410284085248
+    m_Localized: Palm Guard Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048110531301376
+    m_Localized: If a wound is not cleaned with disinfectant fluid, there is indeed
+      a heightened risk of infection. Please watch the video below to get know the
+      adverse consequences of not using disinfectant fluid to clean the wound.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048770073022464
+    m_Localized: Congratulations! 3/3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2049405874982912
+    m_Localized: Finish Day 1
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

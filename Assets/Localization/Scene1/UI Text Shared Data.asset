@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: cd35fcf33a0efe944a764d1043f439b5
+  m_Entries:
+  - m_Id: 10595972534272
+    m_Key: Map1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10606479265792
+    m_Key: Map2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10624401526784
+    m_Key: Map3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939656015872
+    m_Key: NPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181696
+    m_Key: Dialog1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181697
+    m_Key: Dialog2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181698
+    m_Key: Dialog3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686939681181699
+    m_Key: DIalog4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 779796156895232
+    m_Key: VictimDialog1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 924214247673856
+    m_Key: NPC2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429759565824
+    m_Key: Save Him!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537344
+    m_Key: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537345
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040410284085248
+    m_Key: 'Palm Guard
+
+      Leaderboard'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537347
+    m_Key: Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537348
+    m_Key: Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537349
+    m_Key: Open Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537350
+    m_Key: Close Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537351
+    m_Key: Correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537352
+    m_Key: Wrong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537353
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537354
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2046544873115648
+    m_Key: Identify Open Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537355
+    m_Key: Laceration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537356
+    m_Key: Avulsion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537357
+    m_Key: Puncture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537358
+    m_Key: Abrasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537359
+    m_Key: Control Bleeding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537360
+    m_Key: Apply Hemostatic Dressing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537361
+    m_Key: Indirect Pressure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537362
+    m_Key: Direct Pressure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036429780537363
+    m_Key: Apply Tourniquet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048110531301376
+    m_Key: Dialog5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048770073022464
+    m_Key: Congratulations!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2049405874982912
+    m_Key: Finish Day 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3543200504336384
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3543203280965632
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9057563766916120614
+  references:
+    version: 2
+    RefIds:
+    - rid: 9057563766916120614
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1715519341566
