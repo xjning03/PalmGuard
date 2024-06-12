@@ -16,4 +16,4 @@ Ready to embark on this epic quest? Follow these steps to dive into the adventur
 3. **Setup SQLite**: Download SQLite and open PalmGuard.db 🔧
 
 ## How to Play
-[SS1](PalmGuard/1.png)
+![SS1](PalmGuard/1.png)
