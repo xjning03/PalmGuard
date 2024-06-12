@@ -1,6 +1,6 @@
 # 🌴 Palm Guard: The Ultimate RPG Adventure 🗡️
 
-Welcome to the heart of our epic RPG adventure, powered by Unity! 🎮✨
+Welcome to the heart of our epic RPG adventure, powered by **Unity**! 🎮✨
 <td><img src="PalmGuard/1.png" alt="SS1" /></td>
 
 ## Overview
