@@ -24,13 +24,13 @@ Ready to embark on this epic quest? Follow these steps to dive into the adventur
 <table>
   <tr>
     <td><img src="PalmGuard/1.png" alt="SS1" /></td>
+  </tr>
+  <tr>
     <td><img src="PalmGuard/2.png" alt="SS2" /></td>
     <td><img src="PalmGuard/3.png" alt="SS3" /></td>
-  </tr>
   <tr>
     <td><img src="PalmGuard/4.png" alt="SS4" /></td>
     <td><img src="PalmGuard/5.png" alt="SS5" /></td>
-    <td></td>
   </tr>
 </table>
 
