@@ -1,6 +1,7 @@
 # 🌴 Palm Guard: The Ultimate RPG Adventure 🗡️
 
 Welcome to the heart of our epic RPG adventure, powered by Unity! 🎮✨
+<td><img src="PalmGuard/1.png" alt="SS1" /></td>
 
 ## Overview
 
@@ -22,9 +23,6 @@ Ready to embark on this epic quest? Follow these steps to dive into the adventur
 3. **Setup SQLite**: Download SQLite and open PalmGuard.db 🔧
 
 <table>
-  <tr>
-    <td><img src="PalmGuard/1.png" alt="SS1" /></td>
-  </tr>
   <tr>
     <td><img src="PalmGuard/2.png" alt="SS2" /></td>
     <td><img src="PalmGuard/3.png" alt="SS3" /></td>
