@@ -15,3 +15,5 @@ Ready to embark on this epic quest? Follow these steps to dive into the adventur
 2. **Install Unity**: Download and install the latest version of Unity from [here](https://unity.com/). 🛠️
 3. **Setup SQLite**: Download SQLite and open PalmGuard.db 🔧
 
+## How to Play
+[SS1](PalmGuard/1.png)
